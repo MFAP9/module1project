@@ -12,5 +12,7 @@ To review data sets of movies and gather actionable insights into movie producti
 
 **Summary of Files in this Repository:
 
-This repository contains files including:
-
+Project1.ipynb - Jupyter Notebook
+Project 1 Anesu and Michael
+/data and /datauz folders with raw data zipped and unzipped
+READ.me file of summary
